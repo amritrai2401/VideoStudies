@@ -23,3 +23,13 @@ In frontend web app we use use that url to make request to express app(server).
      
 
 Nosql  = documents having different name are linked together and each document have collection of different items(name(string),age(18))
+
+
+Used external library "router" for making pages.
+  eg:<Route path="/checkout">
+Then used "Link" to link icons,img,etc like home to a desired page
+  eg:<Link to="checkout">
+        <onclick= img src="..">
+    </Link>
+
+  Used crud operations on database.
