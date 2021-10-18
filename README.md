@@ -19,7 +19,3 @@ eg-: /user/noofitems.get={fetch data of that user's bucketlist} [In express app]
 Api endpoint = URL which makes a special request to database. 
 In backend web app api endpoint are named and defined that what request they will make to database on calling. eg-: /newuserKoAddKaro/.post= add new user info in database
 In frontend web app we use use that url to make request to express app(server). 
-
-     
-
-Nosql  = documents having different name are linked together and each document have collection of different items(name(string),age(18))
