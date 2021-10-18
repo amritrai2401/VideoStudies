@@ -7,7 +7,7 @@
 
 
 Used rest api for communication between client(react app) and server(express app) by creating api endpoints(functions) in express app(server) and giving them special routes(names). Then made request from client(react app) by using those routes already defined in express app with specific endpoints.
-Mongoose schema is used for defining datastructure of the items in doc file (mongodb is schemaless nosql database).
+Mongoose schema is used for defining datastructure of the items in doc file (mongodb is schemaless nosql database).🤍🤍
 
 
-Used async function for having promises and await(inside async) for waiting till the promise returns something ,either fulfilled or rejected. Used axios inside await(await is already inside aync) for sending request to server by using routes ,which triggers the api endpoint function correspondent to it in server to perform the specific function in database.
+Used async function for having promises and await(inside async) for waiting till the promise returns something ,either fulfilled or rejected. Used axios inside await [aync(await(axios))] for sending request to server by using routes ,which triggers the api endpoint function correspondent to it in server to perform the specific function in database.🤍🤍
