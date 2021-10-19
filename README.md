@@ -11,3 +11,5 @@ Mongoose schema is used for defining datastructure of the items in doc file (mon
 
 
 Used async function for having promises and await(inside async) for waiting till the promise returns something ,either fulfilled or rejected. Used axios inside await [aync(await(axios))] for sending request to server by using routes ,which triggers the api endpoint function correspondent to it in server to perform the specific function in database 🤍🤍
+
+Built an rest api in express app(server) which is used by react app(client,frontend)🤍🤍
