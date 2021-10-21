@@ -1,3 +1,10 @@
+
+To make studies more interesting I devloped a web app in which study related videos are posted by the authorized persons(having the username & password of database) using any http client (eg:reqbin,postman). 
+
+The students can message their doubts in doubt section & get it resolved.
+
+They can like the video so that other students know about the videos that are liked more by students.
+
 ![visualstudiess](https://user-images.githubusercontent.com/86003701/137584673-6f5e00d7-db7d-4868-99c5-897c09bc0135.jpg)
 
 
