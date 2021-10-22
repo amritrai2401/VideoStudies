@@ -5,7 +5,7 @@ A (MERN stack) web app in which tutorial videos are posted by authorized persons
 
 • Backend = Express app(deployed on Heroku)
 
-• Database = Mongodb(nosql schemaless)
+• Database = Mongodb(nosql schemaless). Used mongoose schema to set the structure of document.
 
 • Used reqbin for api testing and sending post requests.
 
