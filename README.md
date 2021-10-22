@@ -1,11 +1,9 @@
 
-A (MERN stack) web app in which tutorial videos are posted by authorized persons(having the username & password of the database), students can clear doubts in doubts section & also like the tutorial.
+A web app(mern stack) in which tutorial videos are posted by authorized persons(having the username & password of the database), students can clear doubts in doubts section & also like the tutorial.
 
-• Frontend = React app (deployed on Firebase)
+• Built a React app as frontend/client(deployed on Firebase), Express app as Server(deployed on Heroku)
 
-• Backend = Express app(deployed on Heroku)
-
-• Database = Mongodb(nosql schemaless). Used mongoose schema to set the structure of document.
+• Database-: MongoDB(nosql,schemaless). Used mongoose-schema to set the structure of document.
 
 • Used reqbin for api testing and sending post requests.
 
