@@ -1,9 +1,13 @@
 
-To make studies more interesting I devloped a web app in which study related videos are posted by the authorized persons(having the username & password of database) using any http client(eg:reqbin,postman💛💛
+A (MERN stack) web app in which tutorial videos are posted by authorized persons(having the username & password of the database), students can clear doubts in doubts section & also like the tutorial.
 
-The students can message their doubts in doubt section & get it resolved.💬💬💬💬
+• Frontend = React app (deployed on Firebase)
 
-They can like the video so that other students know about the videos that are liked more by students.🧡🧡
+• Backend = Express app(deployed on Heroku)
+
+• Database = Mongodb(nosql schemaless)
+
+• Used reqbin for api testing and sending post requests.
 
 ![visualstudiess](https://user-images.githubusercontent.com/86003701/137584673-6f5e00d7-db7d-4868-99c5-897c09bc0135.jpg)
 
