@@ -1,5 +1,4 @@
-
-A web app(mern stack) in which tutorial videos are posted by authorized persons(having the username & password of the database), students can clear doubts in doubts section & also like the tutorial.
+A web app(mern stack) in which tutor(having the username & password of the database) posts videos & students can clear doubts in doubts section & also like the tutorial.
 
 • Built a React app as frontend/client(deployed on Firebase), Express app as Server(deployed on Heroku)
 
